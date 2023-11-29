@@ -1,0 +1,19 @@
+body {
+    background-color:blanchedalmond(244, 246, 239);
+    height: 100vh;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(208, 255, 0)
+}
+
+P {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2 {
+    text-align: left; 
+    color:rgb(109, 204, 36) 
+}
